@@ -28,6 +28,10 @@ Create an account on https://www.themoviedb.org/, click on the `API` link from t
 6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 7. Hurray! That's it.
 
+## Architecture
+The following image shows the workflow of the app "FlickFlow:  Navigate the World of Movies"
+![Recommendation app]()
+
 ### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
